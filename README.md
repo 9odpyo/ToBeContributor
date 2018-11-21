@@ -9,4 +9,5 @@ hyemi commit--
 
 Developer
 h2ck4u - (Jeungeuny)
+kimsangyeon - (Sangyeon)
 
